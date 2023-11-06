@@ -1,0 +1,294 @@
+{
+  "title": "Desbloquea el Poder de la TECNOLOGÍA Desde",
+  "getstart": "Comenzar",
+  "navHome": "Inicio",
+  "navServices": "Servicios",
+  "navswap": "Intercambio",
+  "navcontact": "Contacto",
+  "navBlogs": "Blogs",
+  "heroQuet": "construimos soluciones y productos de clase mundial. ayudando a las startups a crecer digitalmente",
+  "services": [
+    "Desarrollo",
+    "Branding",
+    "NFT",
+    "Análisis de mercado",
+    "Comercio de IA"
+  ],
+  "andMuchMore": "y Mucho Más",
+  "companyLogoDec": "Confían en nosotros más de 106 marcas y startups",
+  "contactInfo": [
+    {
+      "label": "Dirección",
+      "value": "8 The Green, STE A, Dover, Delaware, 19901, USA"
+    },
+    {
+      "label": "Teléfono",
+      "value": "+1 (345) 678 9012"
+    },
+    {
+      "label": "Correo electrónico",
+      "value": "info@techyoung.com"
+    }
+  ],
+  "contactFormFields": [
+    {
+      "label": "Tu nombre*",
+      "placeholder": "Tu nombre*"
+    },
+    {
+      "label": "Tu correo electrónico*",
+      "placeholder": "Tu correo electrónico*"
+    },
+    {
+      "label": "Asunto*",
+      "placeholder": "Asunto*"
+    },
+    {
+      "label": "Mensaje*",
+      "placeholder": "Mensaje*"
+    }
+  ],
+  "contectForm": "Formulario de Contacto",
+  "sendMessageButton": "Enviar Mensaje",
+  "solutions": [
+    {
+      "name": "Desarrollo de aplicaciones",
+      "description": "Una de las ventajas clave del desarrollo de aplicaciones de servicios es la capacidad de personalizar la experiencia del usuario. Estas aplicaciones pueden recopilar y analizar datos para comprender las preferencias y el comportamiento de los usuarios, lo que permite a las empresas adaptar sus servicios y esfuerzos de marketing. La personalización no sólo fomenta la lealtad del cliente sino que también mejora la experiencia general del cliente.",
+      "links": [
+        {
+          "name": "Ninja Warriors Meta",
+          "link": "https://www.ninjawarriorsmeta.com/"
+        },
+        {
+          "name": "Ninja Squad",
+          "link": "https://ninjasquad.co/"
+        }
+      ]
+    },
+    {
+      "name": "Desarrollo web",
+      "description": "Los desarrolladores full-stack dominan el desarrollo front-end y back-end, lo que los convierte en profesionales versátiles capaces de crear soluciones web de un extremo a otro. Entienden cómo funciona todo el ecosistema web, desde la interfaz de usuario hasta la infraestructura del servidor, y pueden trabajar sin problemas en todos estos dominios.",
+      "links": [
+        {
+          "name": "Midas Safety",
+          "link": "https://www.midassafety.com/products/gloves/dipped-seamless/nft-regular/"
+        },
+        {
+          "name": "Ninja Squad",
+          "link": "https://ninjasquad.co/"
+        }
+      ]
+    },
+    {
+      "name": "Desarrollo de cadena de bloques",
+      "description": "Blockchain developers work with different types of blockchains, including public and private variants. Public blockchains, like Bitcoin and Ethereum, are open to anyone, while private blockchains are restricted to a specific group or organization. Developers choose the appropriate blockchain type based on the project's requirements for transparency, access control, and scalability.",
+      "links": [
+        {
+          "name": "Nft Cars",
+          "link": "https://nftcars.me/"
+        }
+     
+      ]
+    }
+  ],
+  "ViewLiveProject": "Ver proyecto en vivo",
+  "recentWork": [
+   
+    {
+        "name": "VoxSynth - Herramienta de Clonación de Voz",
+        "description": "Replica cualquier voz con un corto clip de audio. ¡Crea voiceovers personalizados y mucho más!",
+        "image":"https://www.izotope.com/storage-cms/images/0/5/5/9/219550-1-eng-GB/29d086f58967-vocalsynth-2-interactive-visualizations-why.jpg",
+        "link": "https://voxsynth.io",
+        "tags": [
+            "Clonación de Voz",
+            "Procesamiento de Audio"
+        ]
+    },
+    {
+        "name": "TextSumm - Herramienta de Resumen Avanzado",
+        "description": "Condensa largos artículos, documentos y textos en resúmenes concisos utilizando técnicas NLP avanzadas.",
+        "image":"https://repository-images.githubusercontent.com/216241997/f4108980-9e9d-11ea-8e7c-816b255395a9",
+        "link": "https://textsumm.ai",
+        "tags": [
+            "NLP",
+            "Resumen de Texto"
+        ]
+    },
+    {
+        "name": "VisRecog - Detector de Objetos en Tiempo Real",
+        "description": "Identifica y etiqueta objetos en tiempo real. Útil para vigilancia, robótica y más.",
+        "image":"https://assets.website-files.com/6390c443fe95660a5e9a4a2b/6390cf8ec81424b8d5722600_Vix_Logo-18.png",
+        "link": "https://visrecog.tech",
+        "tags": [
+            "Detección de Objetos",
+            "Visión por Computadora"
+        ]
+    }
+  ],
+  "recentCardButton": "Ver proyecto en vivo",
+  "ProcessStep1": "Paso 1",
+  "ProcessStep2": "Paso 2",
+  "ProcessStep3": "Paso 3",
+  "ProcessStep4": "Paso 4",
+  "ProcessResearch": "Investigación",
+  "ProcessIdeate": "Idear",
+  "ProcessPrototype": "Prototipo",
+  "ProcessTest": "Prueba",
+  "SwapDecription": "INTERCAMBIO DE TOKENS AL INSTANTE",
+  "SwapConnectWallet": "Conectar billetera",
+  "ArticalTitle": "Artículos recientes",
+  "Articles": [
+    {
+      "author": "ANDREW DIDOVSKIY",
+      "description": "¡La mejor tecnología para el desarrollo de Web 3.0!",
+      "image": "https://tecusher.com/wp-content/uploads/2023/01/63be94090c5629de82f64665_web3-image-scaled-1.jpg",
+      "link": "https://web3techstack.io",
+      "date": "22 de agosto de 2023"
+    },
+    {
+      "author": "MARIANA VELASCO",
+      "description": "Explorando el potencial de la computación cuántica en empresas modernas.",
+      "image": "https://techeconomy.ng/wp-content/uploads/2023/05/Quantum-Computing-Exploring-the-Potential-of-Next-Generation-Computing-.jpg",
+      "link": "https://quantumfuture.tech",
+      "date": "25 de agosto de 2023"
+    },
+    {
+      "author": "KAI WEN",
+      "description": "El poder transformador de la IA en el sector sanitario.",
+      "image": "https://ehealth.eletsonline.com/wp-content/uploads/2019/06/Artificial-Intelligence-1024x682.jpeg",
+      "link": "https://aihealthrevolution.net",
+      "date": "28 de agosto de 2023"
+    }
+  ],
+  "Team": [
+    {
+      "name": "Thien Nguyen",
+      "designation": "fundador y director ejecutivo",
+      "image": "../../../public/ProfileImages/p1.png"
+    },
+    {
+      "name": "Manh Tran",
+      "designation": "Ingeniero Web3",
+      "image": "../../../public/ProfileImages/p3.png"
+    },
+    {
+      "name": "Dip Karmakar",
+      "designation": "Investigador senior en Defi y Web3",
+      "image": "../../../public/ProfileImages/p4.png"
+    },
+    {
+      "name": "Syed Musavir Chishti",
+      "designation": "Consultor tecnológico senior",
+      "image": "../../../public/ProfileImages/p2.png"
+    }
+  ],
+  "questions": [
+    {
+      "q": "¿Qué hace realmente Tech Young?",
+      "a": "Tech Young es una empresa dedicada a fomentar la innovación tecnológica y a cultivar jóvenes talentos en el mundo tecnológico, proporcionándoles plataformas y recursos para sobresalir."
+    },
+    {
+      "q": "¿Cómo funciona?",
+      "a": "Tech Young colabora con escuelas, instituciones e innovadores independientes, ofreciendo talleres, seminarios web y herramientas de última generación para ayudar a materializar ideas."
+    },
+    {
+      "q": "¿Qué servicios ofrecen?",
+      "a": "Ofrecemos programas de educación en tecnología, incubación de innovaciones, oportunidades de mentoría y acceso a una amplia red de profesionales del sector."
+    },
+    {
+      "q": "¿Cómo funciona?",
+      "a": "Los usuarios pueden registrarse en nuestra plataforma, elegir los servicios o programas que les interesen y obtener acceso a una gran cantidad de recursos y expertos en el campo."
+    },
+    {
+      "q": "Tech Young thực sự làm gì?",
+      "a": "Tech Young là một công ty chuyên khuyến khích đổi mới về công nghệ và nuôi dưỡng tài năng trẻ trong lĩnh vực công nghệ, cung cấp các nền tảng và nguồn lực để họ phát triển."
+    },
+    {
+      "q": "Công ty hoạt động như thế nào?",
+      "a": "Tech Young hợp tác với các trường học, tổ chức và những người đổi mới độc lập, cung cấp các buổi hội thảo, hội nghị trực tuyến và các công cụ tiên tiến để giúp biến ý tưởng thành hiện thực."
+    },
+    {
+      "q": "Các bạn cung cấp dịch vụ gì?",
+      "a": "Chúng tôi cung cấp các chương trình giáo dục về công nghệ, ấp ủ ý tưởng đổi mới, cơ hội hướng dẫn và truy cập vào một mạng lưới rộng lớn của các chuyên gia trong ngành."
+    }
+  ]
+,
+  "links": [
+    {
+      "caption": "síguenos en",
+      "app": "linkedin",
+      "link": "#"
+    },
+    {
+      "caption": "entra a",
+      "app": "twitter",
+      "link": "#"
+    },
+    {
+      "caption": "únete a nuestro",
+      "app": "telegram",
+      "link": "#"
+    },
+    {
+      "caption": "síguenos en",
+      "app": "instagram",
+      "link": "#"
+    }
+  ],
+  "FooterTitle": "SUSCRÍBETE A NUESTRO BOLETÍN",
+  "Footerinput": "Ingresa tu dirección de correo",
+  "FooterButton": "Comenzar",
+  "FooterDecription": "derechos de autor © 2023 techyoung.com | todos los derechos reservados.",
+  "BlogsCategories": [
+    {
+      "name": "todos"
+    },
+    {
+      "name": "tecnología"
+    },
+    {
+      "name": "diseño"
+    },
+    {
+      "name": "marketing"
+    },
+    {
+      "name": "semanal"
+    },
+    {
+      "name": "anuncios"
+    },
+    {
+      "name": "ofertas de trabajo"
+    },
+    {
+      "name": "liderazgo"
+    },
+    {
+      "name": "blockchain"
+    }
+  ],
+  "BlogAuthor": {
+    "author": "ANDREW DIDOVSKIY",
+    "image":"https://bafybeibzmvnmyz2v3zd4cmfakv6omsebvy7sn2qo54pe52lg7tkfboo3wu.ipfs.w3s.link/WhatsApp_Image_2023-09-01_at_6.31.17_AM.jpeg.jpg",
+    "description": "¡La mejor pila tecnológica para el desarrollo de Web 3.0!",
+    "link": "#",
+    "date": "22 de agosto, 2023"
+  },
+  "TitleSolution": "Soluciones",
+  "TitleRecent": "Trabajos",
+  "TitleProcess": "Proceso Sin",
+  "TitleSwap": "INTERCAMBIO",
+  "TitleTeam": "ROSTROS DETRÁS DE",
+  "TitleFAQ": "preguntas frecuentes",
+  "TitleMain": "Libera el Poder De",
+"TitleMainTechnology": "TECNOLOGÍA",
+"TitleMainFrom": "De",
+"TitleMainTraditional": "Tradicional A",
+"TitleMainWeb": "Web",
+"TitleMain3": "3",
+"TitleServices": "SERVICIOS",
+"TitleContact": "CONTACTO",
+"TitleBlogPost": "de blog",
+"TitleChatgpt":"Chat GPT"
+}

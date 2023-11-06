@@ -1,0 +1,277 @@
+{
+  "title": "Mở khóa sức mạnh của công nghệ từ",
+  "getstart": "Bắt đầu",
+  "navHome": "Trang chủ",
+  "navServices": "Dịch vụ",
+  "navswap": "tráo đổi",
+  "navcontact": "liên hệ",
+  "navBlogs": "Blog",
+  "heroQuet": "chúng tôi xây dựng các giải pháp và sản phẩm đẳng cấp thế giới. giúp các công ty khởi nghiệp phát triển kỹ thuật số",
+  "services": [
+    "Phát triển",
+    "Xây dựng thương hiệu",
+    "NFT",
+    "Phân tích thị trường",
+    "giao dịch AI"
+  ],
+  "andMuchMore": "và nhiều hơn nữa",
+  "companyLogoDec": "Chúng tôi được hơn 106 thương hiệu và công ty khởi nghiệp tin tưởng",
+  "contactInfo": [
+    {
+      "label": "Địa chỉ",
+      "value": "8 The Green, STE A, Dover, Delaware, 19901, Hoa Kỳ"
+    },
+    {
+      "label": "Điện thoại",
+      "value": "+1 (345) 678 9012"
+    },
+    {
+      "label": "E-mail",
+      "value": "info@techyoung.com"
+    }
+  ],
+  "contactFormFields": [
+    {
+      "label": "Tên của bạn*",
+      "placeholder": "Tên của bạn*"
+    },
+    {
+      "label": "Email của bạn*",
+      "placeholder": "Email của bạn*"
+    },
+    {
+      "label": "Chủ thể*",
+      "placeholder": "Chủ thể*"
+    },
+    {
+      "label": "Tin nhắn*",
+      "placeholder": "Tin nhắn*"
+    }
+  ],
+  "contectForm": "Mâu liên hệ",
+  "sendMessageButton": "Gửi tin nhắn",
+  "solutions": [
+    {
+      "name": "Phát triển ứng dụng",
+      "description": "One of the key advantages of service app development is the ability to personalize the user experience. These apps can gather and analyze data to understand user preferences and behavior, allowing businesses to tailor their services and marketing efforts. Personalization not only fosters customer loyalty but also improves the overall customer experience.",
+      "links": [
+        {
+          "name": "Ninja Warriors Meta",
+          "link": "https://www.ninjawarriorsmeta.com/"
+        },
+        {
+          "name": "Ninja Squad",
+          "link": "https://ninjasquad.co/"
+        }
+      ]
+    },
+    {
+      "name": "Phát triển web",
+      "description": "Full-stack developers are proficient in both front-end and back-end development, making them versatile professionals capable of creating end-to-end web solutions. They understand how the entire web ecosystem functions, from the user interface to the server infrastructure, and can work seamlessly across these domains.",
+      "links": [
+        {
+          "name": "Midas Safety",
+          "link": "https://www.midassafety.com/products/gloves/dipped-seamless/nft-regular/"
+        },
+        {
+          "name": "Ninja Squad",
+          "link": "https://ninjasquad.co/"
+        }
+      ]
+    },
+    {
+      "name": "Phát triển chuỗi khối",
+      "description": "Blockchain developers work with different types of blockchains, including public and private variants. Public blockchains, like Bitcoin and Ethereum, are open to anyone, while private blockchains are restricted to a specific group or organization. Developers choose the appropriate blockchain type based on the project's requirements for transparency, access control, and scalability.",
+      "links": [
+        {
+          "name": "Nft Cars",
+          "link": "https://nftcars.me/"
+        }
+     
+      ]
+    }
+  ],
+  "ViewLiveProject": "Xem dự án trực tiếp",
+  "recentWork": [
+    {
+        "name": "VoxSynth - Công Cụ Sao Chép Giọng Nói",
+        "description": "Nhân bản bất kỳ giọng nói nào với một đoạn âm thanh ngắn. Tạo lời bình luận cá nhân hóa và nhiều hơn nữa!",
+        "image":"https://www.izotope.com/storage-cms/images/0/5/5/9/219550-1-eng-GB/29d086f58967-vocalsynth-2-interactive-visualizations-why.jpg",
+        "link": "https://voxsynth.io",
+        "tags": [
+            "Sao Chép Giọng Nói",
+            "Xử Lý Âm Thanh"
+        ]
+    },
+    {
+        "name": "TextSumm - Công Cụ Tóm Tắt Nâng Cao",
+        "description": "Rút ngắn bài viết, tài liệu và văn bản dài thành bản tóm tắt ngắn gọn bằng các kỹ thuật NLP tiên tiến.",
+        "image":"https://repository-images.githubusercontent.com/216241997/f4108980-9e9d-11ea-8e7c-816b255395a9",
+        "link": "https://textsumm.ai",
+        "tags": [
+            "NLP",
+            "Tóm Tắt Văn Bản"
+        ]
+    },
+    {
+        "name": "VisRecog - Máy Dò Vật Thể Thời Gian Thực",
+        "description": "Xác định và gắn nhãn đối tượng trong thời gian thực. Hữu ích cho giám sát, robot và nhiều hơn nữa.",
+        "image":"https://assets.website-files.com/6390c443fe95660a5e9a4a2b/6390cf8ec81424b8d5722600_Vix_Logo-18.png",
+        "link": "https://visrecog.tech",
+        "tags": [
+            "Phát Hiện Đối Tượng",
+            "Thị Giác Máy Tính"
+        ]
+    }
+],
+  "recentCardButton": "Xem dự án trực tiếp",
+  "ProcessStep1": "Bước 1",
+  "ProcessStep2": "Bước 2",
+  "ProcessStep3": "Bước 3",
+  "ProcessStep4": "Bước 4",
+  "ProcessResearch": "Nghiên cứu",
+  "ProcessIdeate": "lý tưởng",
+  "ProcessPrototype": "Nguyên mẫu",
+  "ProcessTest": "Bài kiểm tra",
+  "SwapDecription": "TRAO ĐỔI TOKEN NGAY LẬP TỨC",
+  "SwapConnectWallet": "Kết nối ví",
+  "ArticalTitle": "Bài viết mới nhất",
+  "Articles": [
+    {
+      "author": "ANDREW DIDOVSKIY",
+      "description": "Công nghệ tốt nhất cho phát triển Web 3.0!",
+      "image": "https://tecusher.com/wp-content/uploads/2023/01/63be94090c5629de82f64665_web3-image-scaled-1.jpg",
+      "link": "https://web3techstack.io",
+      "date": "22 tháng 8, 2023"
+    },
+    {
+      "author": "MARIANA VELASCO",
+      "description": "Khám phá tiềm năng của máy tính lượng tử trong doanh nghiệp hiện đại.",
+      "image": "https://techeconomy.ng/wp-content/uploads/2023/05/Quantum-Computing-Exploring-the-Potential-of-Next-Generation-Computing-.jpg",
+      "link": "https://quantumfuture.tech",
+      "date": "25 tháng 8, 2023"
+    },
+    {
+      "author": "KAI WEN",
+      "description": "Sức mạnh biến đổi của AI trong ngành y tế.",
+      "image": "https://ehealth.eletsonline.com/wp-content/uploads/2019/06/Artificial-Intelligence-1024x682.jpeg",
+      "link": "https://aihealthrevolution.net",
+      "date": "28 tháng 8, 2023"
+    }
+  ],
+  "Team": [
+    {
+      "name": "Thiên Nguyên",
+      "designation": "Nhà sáng lập và Giám đốc điều hành",
+      "image": "../../../public/ProfileImages/p1.png"
+    },
+    {
+      "name": "Mạnh Trần",
+      "designation": "Kỹ sư Web3",
+      "image": "../../../public/ProfileImages/p3.png"
+    },
+    {
+      "name": "Dip Karmakar",
+      "designation": "Nghiên cứu cấp cao Defi và Web3",
+      "image": "../../../public/ProfileImages/p4.png"
+    },
+    {
+      "name": "Syed Musavir Chishti",
+      "designation": "Chuyên gia tư vấn công nghệ cao cấp",
+      "image": "../../../public/ProfileImages/p2.png"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Tech Young thực sự làm gì?",
+      "a": "Tech Young là một công ty chuyên khuyến khích sự đổi mới công nghệ và nuôi dưỡng những tài năng trẻ trong lĩnh vực công nghệ, cung cấp cho họ các nền tảng và tài nguyên để họ phát triển."
+    },
+    {
+      "q": "Công ty hoạt động như thế nào?",
+      "a": "Tech Young hợp tác với các trường học, tổ chức và những người sáng tạo độc lập, tổ chức các buổi hội thảo, hội nghị trực tuyến và cung cấp những công cụ tiên tiến để giúp thực hiện các ý tưởng."
+    },
+    {
+      "q": "Các bạn cung cấp những dịch vụ gì?",
+      "a": "Chúng tôi cung cấp các chương trình giáo dục về công nghệ, ấp ủ các ý tưởng đổi mới, cơ hội mentorship và truy cập vào một mạng lưới rộng lớn của các chuyên gia trong ngành."
+    }
+  ]
+,
+  "links": [
+    {
+      "caption": "theo dõi của chúng tôi",
+      "app": "Linkedin",
+      "link": "#"
+    },
+    {
+      "caption": "hpp vào",
+      "app": "Twitter",
+      "link": "#"
+    },
+    {
+      "caption": "gia nhập với chúng tôi",
+      "app": "telegram",
+      "link": "#"
+    },
+    {
+      "caption": "theo dõi chúng tôi tại",
+      "app": "instagram",
+      "link": "#"
+    }
+  ],
+  "FooterTitle": "THEO DÕI BẢN TIN CỦA CHÚNG TÔI",
+  "Footerinput": "Nhập địa chỉ email của bạn",
+  "FooterButton": "Bắt đầu",
+  "FooterDecription": "bản quyền © 2023 techyoung.com | Đã đăng ký Bản quyền.",
+  "BlogsCategories": [
+    {
+      "name": "tất cả"
+    },
+    {
+      "name": "công nghệ"
+    },
+    {
+      "name": "thiết kế"
+    },
+    {
+      "name": "tiếp thị"
+    },
+    {
+      "name": "hàng tuần"
+    },
+    {
+      "name": "thông báo"
+    },
+    {
+      "name": "thông tin nghề nghiệp"
+    },
+    {
+      "name": "Khả năng lãnh đạo"
+    },
+    {
+      "name": "chuỗi khối"
+    }
+  ],
+  "BlogAuthor": {
+    "author": "ANDREW DIDOVSKIY",
+    "description": "Ngăn xếp công nghệ tốt nhất để phát triển Web 3.0!",
+    "image":"https://bafybeibzmvnmyz2v3zd4cmfakv6omsebvy7sn2qo54pe52lg7tkfboo3wu.ipfs.w3s.link/WhatsApp_Image_2023-09-01_at_6.31.17_AM.jpeg.jpg",
+    "link": "#",
+    "date": "Ngày 22 tháng 8 năm 2023"
+  },
+  "TitleSolution": "Giải pháp của",
+  "TitleRecent": "Công việc gần",
+  "TitleProcess": "Quá trình liền mạch",
+  "TitleSwap": "TRAO ĐỔI",
+  "TitleTeam": "NHỮNG KHOẢNH",
+  "TitleFAQ": "câu hỏi thường",
+  "TitleMain": "Mở khóa Sức mạnh của",
+"TitleMainTechnology": "CÔNG NGHỆ",
+"TitleMainFrom": "Từ",
+"TitleMainTraditional": "Truyền thống",
+"TitleMainWeb": "Web",
+"TitleMain3": "3",
+"TitleServices": "DỊCH VỤ",
+"TitleContact": "LIÊN HỆ",
+"TitleBlogPost": "trên blog",
+"TitleChatgpt":"Trò chuyện GPT"
+}

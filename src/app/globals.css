@@ -1,0 +1,243 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: #0a090f;
+}
+
+/* .mainSection > div {
+  z-index: 2;
+  border-color: white;
+  border-style: none;
+  border-right-style: solid;
+  border-top-style: solid;
+  border-width: 0.01px;
+  color: white;
+}
+.behind-canvas {
+  background: none;
+  border: 1px solid gray;
+} */
+
+.vertical-line {
+  width: 1px;
+  height: 100%;
+  background-color: #353539;
+  position: fixed;
+  top: 0;
+}
+
+.vertical-line.vertical-line--left {
+  /* z-index: -1; */
+  left: 17%;
+}
+
+.vertical-line.vertical-line--left.vertical-line-solution {
+  display: none;
+}
+
+.vertical-line.vertical-line--left.vertical-line-header {
+  display: none;
+  position: absolute;
+}
+
+.vertical-line.vertical-line--center {
+  left: 50%;
+}
+
+.vertical-line.vertical-line--center.vertical-line-solution {
+  display: none;
+}
+
+.vertical-line.vertical-line--right {
+  right: 17%;
+}
+
+.vertical-line.vertical-line--right.vertical-line-solution {
+  display: none;
+}
+
+.vertical-line.vertical-line--right.vertical-line-header {
+  display: none;
+  position: absolute;
+}
+
+.hide-scrollbar {
+  /* overflow: hidden; */
+  scrollbar-width: none;
+  animation: scroll infinite linear 10s;
+  white-space: nowrap;
+}
+.hide-scrollbar1 {
+  scrollbar-width: none;
+}
+
+.hide-scrollbar1::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+.scroll-corner {
+  background: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}
+.styled-border {
+  background-image: url(./SVGS/bgheading.svg);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 14px 20px;
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  font-family: Violetsans, Arial, sans-serif;
+  font-size: 64px;
+  width: fit-content;
+  background-position: center center;
+  white-space: nowrap;
+  /* max-width: 100%; */
+}
+.glass-blur {
+  background: none;
+}
+
+@media screen and (max-width: 650px) {
+  .styled-border {
+    font-size: 24px;
+  }
+  .glass-blur {
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(24px);
+  }
+}
+
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  .styled-border {
+    font-size: 32px;
+  }
+  .glass-blur {
+    background: none;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  .styled-border {
+    font-size: 54px;
+  }
+  .glass-blur {
+    background: none;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .styled-border {
+    font-size: 16px;
+  }
+  .glass-blur {
+    background: none;
+  }
+}
+
+.numbers-bg {
+  background-image: url(./../../public/numbers.svg);
+}
+.recent-bg {
+  background-image: url(./../../public/recentworks.svg);
+  background-size: contain; /* This property makes the background image cover the entire container */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-position: center center;  /* Centers the image within the container */
+}
+
+.profile-bg {
+  background-image: url(./../../public/profileBg.svg);
+  background-size: contain; /* This property makes the background image cover the entire container */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-position: center center;
+}
+
+.styled-border1 {
+  background-image: url(./SVGS/bgheading-wider.svg);
+}
+
+.styled-border2 {
+  background-image: url(./SVGS/bgheading-more-wide.svg);
+}
+
+.styled-border3 {
+  background-image: url(./SVGS/faqbgheading.svg);
+}
+
+.btn-bg {
+  background-image: url(./SVGS/bg-btn.svg);
+  background-size: contain; /* This property makes the background image cover the entire container */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-position: center center;
+  cursor: pointer;
+}
+
+/* Grid container styles */
+.grid-container {
+  height: 30.3vh;
+
+  background: #0a090f;
+  background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.2) 1px, transparent 0),
+    linear-gradient(rgba(255, 255, 255, 0.2) 1px, transparent 0);
+  background-position: center;
+  background-size: 10vh 10vh;
+}
+
+
+/* //////////////////////////Dropdown//////////////////////////// */
+
+.gHKFWw {
+  display: flex;
+  flex-flow: row;
+  width: 100%;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  position: fixed;
+  top: 0px;
+  z-index: 1000;
+  display: none !important
+}
+
+
+@media only screen and (max-width: 480px) {
+  .mob{
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 1024px) {
+ 
+}
+.input{
+  background: transparent !important;
+}
+
+
+/* //////////SwapModal//////// */
+
+/* styles.css */

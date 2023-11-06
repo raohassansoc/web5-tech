@@ -1,0 +1,289 @@
+{
+  "title": "Unlock the Power Of TECHNOLOGY From",
+  "getstart": "Get started",
+  "navHome": "Home",
+  "navServices": "Services",
+  "navswap": "Swap",
+  "navcontact": "Contact",
+  "navBlogs": "Blogs",
+  "heroQuet": "we build world class solutions & products. helping startups grow digitally",
+  "services": [
+    "Development",
+    "Branding",
+    "NFT",
+    "Market analysis",
+    "AI trading"
+  ],
+  "andMuchMore": "and Much More",
+  "companyLogoDec": "We’re trusted by 106+ brands & startups",
+  "contactInfo": [
+    {
+      "label": "Address",
+      "value": "8 The Green, STE A, Dover, Delaware, 19901, USA"
+    },
+    {
+      "label": "Phone",
+      "value": "+1 (345) 678 9012"
+    },
+    {
+      "label": "Email",
+      "value": "info@techyoung.com"
+    }
+  ],
+  "contactFormFields": [
+    {
+      "label": "Your Name*",
+      "placeholder": "Your Name*"
+    },
+    {
+      "label": "Your Email*",
+      "placeholder": "Your Email*"
+    },
+    {
+      "label": "Subject*",
+      "placeholder": "Subject*"
+    },
+    {
+      "label": "Message*",
+      "placeholder": "Message*"
+    }
+  ],
+  "contectForm": "Contact Form",
+  "sendMessageButton": "Send Message",
+  "solutions": [
+    {
+      "name": "App Development",
+      "description": "One of the key advantages of service app development is the ability to personalize the user experience. These apps can gather and analyze data to understand user preferences and behavior, allowing businesses to tailor their services and marketing efforts. Personalization not only fosters customer loyalty but also improves the overall customer experience.",
+      "links": [
+        {
+          "name": "Ninja Warriors Meta",
+          "link": "https://www.ninjawarriorsmeta.com/"
+        },
+        {
+          "name": "Ninja Squad",
+          "link": "https://ninjasquad.co/"
+        }
+      ]
+    },
+    {
+      "name": "Web Development",
+      "description": "Full-stack developers are proficient in both front-end and back-end development, making them versatile professionals capable of creating end-to-end web solutions. They understand how the entire web ecosystem functions, from the user interface to the server infrastructure, and can work seamlessly across these domains.",
+      "links": [
+        {
+          "name": "Midas Safety",
+          "link": "https://www.midassafety.com/products/gloves/dipped-seamless/nft-regular/"
+        },
+        {
+          "name": "Ninja Squad",
+          "link": "https://ninjasquad.co/"
+        }
+      ]
+    },
+    {
+      "name": "Blockchain Development",
+      "description": "Blockchain developers work with different types of blockchains, including public and private variants. Public blockchains, like Bitcoin and Ethereum, are open to anyone, while private blockchains are restricted to a specific group or organization. Developers choose the appropriate blockchain type based on the project's requirements for transparency, access control, and scalability.",
+      "links": [
+        {
+          "name": "Nft Cars",
+          "link": "https://nftcars.me/"
+        }
+     
+      ]
+    }
+  ],
+  "ViewLiveProject": "View live project",
+  "recentWork": [
+    {
+        "name": "VoxSynth - Voice Cloning Tool",
+        "description": "Replicate any voice with a short audio clip. Create personalized voiceovers and more!",
+        "link": "https://voxsynth.io",
+        "image":"https://www.izotope.com/storage-cms/images/0/5/5/9/219550-1-eng-GB/29d086f58967-vocalsynth-2-interactive-visualizations-why.jpg",
+        "tags": [
+            "Voice Cloning",
+            "Audio Processing"
+        ]
+    },
+    {
+        "name": "TextSumm - Advanced Summarization Tool",
+        "description": "Condense long articles, documents, and texts into concise summaries using state-of-the-art NLP techniques.",
+        "link": "https://textsumm.ai",
+        "image":"https://repository-images.githubusercontent.com/216241997/f4108980-9e9d-11ea-8e7c-816b255395a9",
+        "tags": [
+            "NLP",
+            "Text Summarization"
+        ]
+    },
+    {
+        "name": "VisRecog - Real-time Object Detector",
+        "description": "Identify and label objects in real-time. Useful for surveillance, robotics, and more.",
+        "link": "https://visrecog.tech",
+        "image":"https://assets.website-files.com/6390c443fe95660a5e9a4a2b/6390cf8ec81424b8d5722600_Vix_Logo-18.png",
+        "tags": [
+            "Object Detection",
+            "Computer Vision"
+        ]
+    }
+],
+  "recentCardButton": "View live project",
+  "ProcessStep1": "Step 1",
+  "ProcessStep2": "Step 2",
+  "ProcessStep3": "Step 3",
+  "ProcessStep4": "Step 4",
+  "ProcessResearch": "Research",
+  "ProcessIdeate": "Ideate",
+  "ProcessPrototype": "Prototype",
+  "ProcessTest": "Test",
+  "SwapDecription": "SWAP TOKENS IN AN INSTANT",
+  "SwapConnectWallet": "Connect wallet",
+  "ArticalTitle": "Latest Articles",
+  "Articles": [
+    {
+      "author": "ANDREW DIDOVSKIY",
+      "description": "Best tech stack for Web 3.0 development!",
+      "link": "https://web3techstack.io",
+      "image": "https://tecusher.com/wp-content/uploads/2023/01/63be94090c5629de82f64665_web3-image-scaled-1.jpg",
+      "date": "August 22, 2023"
+    },
+    {
+      "author": "MARIANA VELASCO",
+      "description": "Exploring the potential of quantum computing in modern enterprises.",
+      "link": "https://quantumfuture.tech",
+      "image": "https://techeconomy.ng/wp-content/uploads/2023/05/Quantum-Computing-Exploring-the-Potential-of-Next-Generation-Computing-.jpg",
+      "date": "August 25, 2023"
+    },
+    {
+      "author": "KAI WEN",
+      "description": "The transformative power of AI in the healthcare sector.",
+      "image": "https://ehealth.eletsonline.com/wp-content/uploads/2019/06/Artificial-Intelligence-1024x682.jpeg",
+      "link": "https://aihealthrevolution.net",
+      "date": "August 28, 2023"
+    }
+  ]
+  ,
+  "Team": [
+    {
+      "name": "Thien Nguyen",
+      "designation": "founder & ceo",
+      "image": "../../../public/ProfileImages/p1.png"
+    },
+    {
+      "name": "Manh Tran",
+      "designation": "Web3 Engineer",
+      "image": "../../../public/ProfileImages/p3.png"
+    },
+    {
+      "name": "Dip Karmakar",
+      "designation": "Senior research Defi and Web3",
+      "image": "../../../public/ProfileImages/p4.png"
+    },
+    {
+      "name": "Syed Musavir Chishti",
+      "designation": "Senior Tech Consultant",
+      "image": "../../../public/ProfileImages/p2.png"
+    }
+  ],
+  "questions": [
+    {
+      "q": "what does tech young actually do?",
+      "a": "Tech Young is a company dedicated to fostering technological innovation and nurturing young talents in the tech world, providing them with platforms and resources to excel."
+    },
+    {
+      "q": "how does it work?",
+      "a": "Tech Young collaborates with schools, institutions, and independent innovators, offering workshops, webinars, and state-of-the-art tools to help bring ideas to life."
+    },
+    {
+      "q": "what services do you provide?",
+      "a": "We offer tech education programs, innovation incubation, mentorship opportunities, and access to a wide network of industry professionals."
+    },
+    {
+      "q": "how does it work?",
+      "a": "Users can sign up on our platform, choose the services or programs they are interested in, and gain access to a myriad of resources and experts in the field."
+    },
+    {
+      "q": "Que fait réellement tech young ?",
+      "a": "Tech Young est une entreprise dédiée à la promotion de l'innovation technologique et au soutien des jeunes talents dans le monde de la technologie, leur fournissant des plateformes et des ressources pour exceller."
+    },
+    {
+      "q": "Quels services fournissez-vous ?",
+      "a": "Nous proposons des programmes d'éducation technologique, d'incubation d'innovation, des opportunités de mentorat et un accès à un vaste réseau de professionnels du secteur."
+    }
+  ],
+  "links": [
+    {
+      "caption": "follow our",
+      "app": "linkedin",
+      "link": "#"
+    },
+    {
+      "caption": "hpp into",
+      "app": "twitter",
+      "link": "#"
+    },
+    {
+      "caption": "join our",
+      "app": "telegram",
+      "link": "#"
+    },
+    {
+      "caption": "follow us on",
+      "app": "instagram",
+      "link": "#"
+    }
+  ],
+  "FooterTitle": "SUBSCRIBE TO OUR NEWSLETTER",
+  "Footerinput": "Enter Your Email Address",
+  "FooterButton": "Get started",
+  "FooterDecription": "copyright © 2023 techyoung.com | all rights reserved.",
+  "BlogsCategories": [
+    {
+      "name": "all"
+    },
+    {
+      "name": "technology"
+    },
+    {
+      "name": "design"
+    },
+    {
+      "name": "marketing"
+    },
+    {
+      "name": "weekly"
+    },
+    {
+      "name": "announcements"
+    },
+    {
+      "name": "job postings"
+    },
+    {
+      "name": "leadership"
+    },
+    {
+      "name": "blockchain"
+    }
+  ],
+  "BlogAuthor": {
+    "author": "ANDREW DIDOVSKIY",
+    "description": "Best tech stack for Web 3.0 development!",
+    "image":"https://bafybeibzmvnmyz2v3zd4cmfakv6omsebvy7sn2qo54pe52lg7tkfboo3wu.ipfs.w3s.link/WhatsApp_Image_2023-09-01_at_6.31.17_AM.jpeg.jpg",
+    "link": "#",
+    "date": "August 22, 2023"
+  },
+  "TitleSolution": "Our Solutions",
+  "RECENT WORK": "Recent work",
+  "TitleProcess": "Seamless Process",
+  "TitleSwap": "SWAP",
+  "TitleTeam": "FACES BEHIND TECHYOUNG",
+  "TitleFAQ": "frequently asked questions",
+  "TitleMain":"Unlock The Porwer Of",
+  "TitleMainTechnology":"TECHNOLOGY",
+  "TitleMainFrom":"From",
+  "TitleMainTraditional":"Traditional To",
+  "TitleMainWeb":"Web",
+  "TitleMain3":"3",
+  "TitleServices":"SERVICES",
+  "TitleContact":"CONTACT",
+  "TitleBlogPost":"Blog posts",
+  "TitleChatgpt":"Chat GPT"
+}
